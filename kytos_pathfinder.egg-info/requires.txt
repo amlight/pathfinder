@@ -1,0 +1,8 @@
+kytos>=2017.2b1
+networkx
+
+[dev]
+coverage
+pip-tools
+yala
+tox
